@@ -32,7 +32,7 @@ dependencies {
 	sortPomCompileOnly 'com.github.ekryd.sortpom:sortpom-sorter:3.0.0'
 	sortPomCompileOnly 'org.slf4j:slf4j-api:1.7.35'
 
-	palantirJavaFormatCompileOnly 'com.palantir.javaformat:palantir-java-format:1.1.0'
+	palantirJavaFormatCompileOnly 'com.palantir.javaformat:palantir-java-format:2.17.0'
 
 	String VER_KTLINT='0.43.2'
 	ktlintCompileOnly "com.pinterest:ktlint:$VER_KTLINT"
